@@ -19,5 +19,6 @@ Run the game:
 
 Example: 
 
-{java -cp bin ConnectGUI 8 4 2}
+  {java -cp bin ConnectGUI 8 4 2}
+
 If no arguments are provided, defaults are used (8x8 grid, 4 to win, 2 players).
